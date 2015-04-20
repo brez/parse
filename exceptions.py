@@ -1,0 +1,2 @@
+class UnknownOrAmbiguousPattern(Exception):
+    pass
